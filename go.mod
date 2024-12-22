@@ -1,3 +1,3 @@
-module learn-go-with-tests
+module lgwt
 
 go 1.23.4
